@@ -1,0 +1,14 @@
+#t1{
+    border-collapse: collapse;
+    background-color: bisque;
+}
+#t2{
+    border-collapse: collapse;
+    background-color:blueviolet;
+}
+#t1 tr:hover{
+ background:cornflowerblue;
+}
+#t2 tr:hover{
+    background-color: chocolate;
+}
